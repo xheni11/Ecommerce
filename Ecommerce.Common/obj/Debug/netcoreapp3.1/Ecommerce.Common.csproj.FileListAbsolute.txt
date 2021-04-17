@@ -1,0 +1,9 @@
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\bin\Debug\netcoreapp3.1\Ecommerce.Common.deps.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\bin\Debug\netcoreapp3.1\Ecommerce.Common.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\bin\Debug\netcoreapp3.1\Ecommerce.Common.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.AssemblyInfoInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.AssemblyInfo.cs
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.Common\obj\Debug\netcoreapp3.1\Ecommerce.Common.csprojAssemblyReference.cache

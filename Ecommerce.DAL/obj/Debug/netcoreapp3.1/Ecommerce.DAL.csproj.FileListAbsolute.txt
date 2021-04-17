@@ -1,0 +1,12 @@
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.deps.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.runtimeconfig.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.runtimeconfig.dev.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.AssemblyInfo.cs
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.genruntimeconfig.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DAL\obj\Debug\netcoreapp3.1\Ecommerce.DAL.csprojAssemblyReference.cache

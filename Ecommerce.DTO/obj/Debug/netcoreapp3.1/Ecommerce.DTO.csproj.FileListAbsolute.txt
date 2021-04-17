@@ -1,0 +1,12 @@
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\bin\Debug\netcoreapp3.1\Ecommerce.DTO.deps.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\bin\Debug\netcoreapp3.1\Ecommerce.DTO.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\bin\Debug\netcoreapp3.1\Ecommerce.DTO.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.csprojAssemblyReference.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.AssemblyInfoInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.AssemblyInfo.cs
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.DTO\obj\Debug\netcoreapp3.1\Ecommerce.DTO.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.IBLL.deps.json
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.IBLL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.IBLL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.AssemblyInfoInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.AssemblyInfo.cs
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.csprojAssemblyReference.cache
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.DTO.dll
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.DTO.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\bin\Debug\netcoreapp3.1\Ecommerce.DAL.pdb
+C:\Users\xhcanaj\Documents\projectsOfMine\Ecommerce1\Ecommerce.IBLL\obj\Debug\netcoreapp3.1\Ecommerce.IBLL.csproj.CopyComplete
